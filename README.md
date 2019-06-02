@@ -11,6 +11,5 @@ Requirements:
 * 4 x 12mm M2.5 screws
 
 ## View
-
-https://github.com/JimKnopfIoT/Pocket-Science-Lab-enclosure/blob/master/iso.jpg
-https://github.com/JimKnopfIoT/Pocket-Science-Lab-enclosure/blob/master/outside.jpg
+![Example Case](iso.jpg)
+![Example Case](outside.jpg)
