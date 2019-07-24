@@ -8,7 +8,7 @@ The enclosure consists of 2 parts which are screwed together.
 Requirements:
 * 3D printer 
 * Filament of your choice
-* 4 x 12mm M3 screws
+* 4 x 14mm M3 screws
 
 ## View
 ![Example Case](iso.jpg)
